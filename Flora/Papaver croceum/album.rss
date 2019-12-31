@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Papaver croceum</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.iceland-trip.cc/Flora/Papaver%20croceum/</jalbum:absolutePath>
+        <item>
+            <title>Papaver croceum 22-Jul-19 _ 12_07_58</title>
+            <link>http://www.iceland-trip.cc/Flora/Papaver%20croceum/slides/Papaver%20croceum%2022-Jul-19%20_%2012_07_58.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:25 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Papaver%20croceum/thumbs/Papaver%20croceum%2022-Jul-19%20_%2012_07_58.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Papaver%20croceum/slides/Papaver%20croceum%2022-Jul-19%20_%2012_07_58.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Papaver%20croceum%2022-Jul-19%20_%2012_07_58.jpg</guid>
+        </item>
+        <item>
+            <title>Papaver croceum 22-Jul-19 _ 12_08_06</title>
+            <link>http://www.iceland-trip.cc/Flora/Papaver%20croceum/slides/Papaver%20croceum%2022-Jul-19%20_%2012_08_06.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:25 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Papaver%20croceum/thumbs/Papaver%20croceum%2022-Jul-19%20_%2012_08_06.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Papaver%20croceum/slides/Papaver%20croceum%2022-Jul-19%20_%2012_08_06.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Papaver%20croceum%2022-Jul-19%20_%2012_08_06.jpg</guid>
+        </item>
+        <item>
+            <title>Papaver croceum 22-Jul-19 _ 12_08_10</title>
+            <link>http://www.iceland-trip.cc/Flora/Papaver%20croceum/slides/Papaver%20croceum%2022-Jul-19%20_%2012_08_10.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:25 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Papaver%20croceum/thumbs/Papaver%20croceum%2022-Jul-19%20_%2012_08_10.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Papaver%20croceum/slides/Papaver%20croceum%2022-Jul-19%20_%2012_08_10.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Papaver%20croceum%2022-Jul-19%20_%2012_08_10.jpg</guid>
+        </item>
+    </channel>
+</rss>

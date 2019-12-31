@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Galium sp</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.iceland-trip.cc/Flora/Galium%20sp/</jalbum:absolutePath>
+        <item>
+            <title>Galium sp 23-Jul-19 _ 12_30_34</title>
+            <link>http://www.iceland-trip.cc/Flora/Galium%20sp/slides/Galium%20sp%2023-Jul-19%20_%2012_30_34.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:41:29 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Galium%20sp/thumbs/Galium%20sp%2023-Jul-19%20_%2012_30_34.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Galium%20sp/slides/Galium%20sp%2023-Jul-19%20_%2012_30_34.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Galium%20sp%2023-Jul-19%20_%2012_30_34.jpg</guid>
+        </item>
+        <item>
+            <title>Galium sp 23-Jul-19 _ 12_30_38</title>
+            <link>http://www.iceland-trip.cc/Flora/Galium%20sp/slides/Galium%20sp%2023-Jul-19%20_%2012_30_38.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:41:29 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Galium%20sp/thumbs/Galium%20sp%2023-Jul-19%20_%2012_30_38.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Galium%20sp/slides/Galium%20sp%2023-Jul-19%20_%2012_30_38.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Galium%20sp%2023-Jul-19%20_%2012_30_38.jpg</guid>
+        </item>
+    </channel>
+</rss>

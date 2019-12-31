@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Hydrocotyle vulgaris</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.iceland-trip.cc/Flora/Hydrocotyle%20vulgaris/</jalbum:absolutePath>
+        <item>
+            <title>Hydrocotyle vulgaris 23-Jul-19 _ 15_27_40</title>
+            <link>http://www.iceland-trip.cc/Flora/Hydrocotyle%20vulgaris/slides/Hydrocotyle%20vulgaris%2023-Jul-19%20_%2015_27_40.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:41:51 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Hydrocotyle%20vulgaris/thumbs/Hydrocotyle%20vulgaris%2023-Jul-19%20_%2015_27_40.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Hydrocotyle%20vulgaris/slides/Hydrocotyle%20vulgaris%2023-Jul-19%20_%2015_27_40.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Hydrocotyle%20vulgaris%2023-Jul-19%20_%2015_27_40.jpg</guid>
+        </item>
+        <item>
+            <title>Hydrocotyle vulgaris 23-Jul-19 _ 15_27_44</title>
+            <link>http://www.iceland-trip.cc/Flora/Hydrocotyle%20vulgaris/slides/Hydrocotyle%20vulgaris%2023-Jul-19%20_%2015_27_44.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:41:51 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Hydrocotyle%20vulgaris/thumbs/Hydrocotyle%20vulgaris%2023-Jul-19%20_%2015_27_44.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Hydrocotyle%20vulgaris/slides/Hydrocotyle%20vulgaris%2023-Jul-19%20_%2015_27_44.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Hydrocotyle%20vulgaris%2023-Jul-19%20_%2015_27_44.jpg</guid>
+        </item>
+        <item>
+            <title>Hydrocotyle vulgaris 23-Jul-19 _ 15_27_48</title>
+            <link>http://www.iceland-trip.cc/Flora/Hydrocotyle%20vulgaris/slides/Hydrocotyle%20vulgaris%2023-Jul-19%20_%2015_27_48.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:41:51 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Hydrocotyle%20vulgaris/thumbs/Hydrocotyle%20vulgaris%2023-Jul-19%20_%2015_27_48.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Hydrocotyle%20vulgaris/slides/Hydrocotyle%20vulgaris%2023-Jul-19%20_%2015_27_48.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Hydrocotyle%20vulgaris%2023-Jul-19%20_%2015_27_48.jpg</guid>
+        </item>
+        <item>
+            <title>Hydrocotyle vulgaris 23-Jul-19 _ 15_27_52</title>
+            <link>http://www.iceland-trip.cc/Flora/Hydrocotyle%20vulgaris/slides/Hydrocotyle%20vulgaris%2023-Jul-19%20_%2015_27_52.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:41:51 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Hydrocotyle%20vulgaris/thumbs/Hydrocotyle%20vulgaris%2023-Jul-19%20_%2015_27_52.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Hydrocotyle%20vulgaris/slides/Hydrocotyle%20vulgaris%2023-Jul-19%20_%2015_27_52.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Hydrocotyle%20vulgaris%2023-Jul-19%20_%2015_27_52.jpg</guid>
+        </item>
+    </channel>
+</rss>

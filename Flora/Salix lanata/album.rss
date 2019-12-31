@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Salix lanata</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.iceland-trip.cc/Flora/Salix%20lanata/</jalbum:absolutePath>
+        <item>
+            <title>Salix lanata 23-Jul-19 _ 12_26_02</title>
+            <link>http://www.iceland-trip.cc/Flora/Salix%20lanata/slides/Salix%20lanata%2023-Jul-19%20_%2012_26_02.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:26 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Salix%20lanata/thumbs/Salix%20lanata%2023-Jul-19%20_%2012_26_02.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Salix%20lanata/slides/Salix%20lanata%2023-Jul-19%20_%2012_26_02.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Salix%20lanata%2023-Jul-19%20_%2012_26_02.jpg</guid>
+        </item>
+        <item>
+            <title>Salix lanata 23-Jul-19 _ 12_26_04</title>
+            <link>http://www.iceland-trip.cc/Flora/Salix%20lanata/slides/Salix%20lanata%2023-Jul-19%20_%2012_26_04.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:26 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Salix%20lanata/thumbs/Salix%20lanata%2023-Jul-19%20_%2012_26_04.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Salix%20lanata/slides/Salix%20lanata%2023-Jul-19%20_%2012_26_04.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Salix%20lanata%2023-Jul-19%20_%2012_26_04.jpg</guid>
+        </item>
+        <item>
+            <title>Salix lanata 23-Jul-19 _ 12_26_08</title>
+            <link>http://www.iceland-trip.cc/Flora/Salix%20lanata/slides/Salix%20lanata%2023-Jul-19%20_%2012_26_08.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:26 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Salix%20lanata/thumbs/Salix%20lanata%2023-Jul-19%20_%2012_26_08.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Salix%20lanata/slides/Salix%20lanata%2023-Jul-19%20_%2012_26_08.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Salix%20lanata%2023-Jul-19%20_%2012_26_08.jpg</guid>
+        </item>
+    </channel>
+</rss>

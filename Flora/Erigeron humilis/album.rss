@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Erigeron humilis</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.iceland-trip.cc/Flora/Erigeron%20humilis/</jalbum:absolutePath>
+        <item>
+            <title>Erigeron humilis 23-Jul-19 _ 12_28_22</title>
+            <link>http://www.iceland-trip.cc/Flora/Erigeron%20humilis/slides/Erigeron%20humilis%2023-Jul-19%20_%2012_28_22.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:41:10 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Erigeron%20humilis/thumbs/Erigeron%20humilis%2023-Jul-19%20_%2012_28_22.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Erigeron%20humilis/slides/Erigeron%20humilis%2023-Jul-19%20_%2012_28_22.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Erigeron%20humilis%2023-Jul-19%20_%2012_28_22.jpg</guid>
+        </item>
+        <item>
+            <title>Erigeron humilis 23-Jul-19 _ 12_28_28</title>
+            <link>http://www.iceland-trip.cc/Flora/Erigeron%20humilis/slides/Erigeron%20humilis%2023-Jul-19%20_%2012_28_28.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:41:10 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Erigeron%20humilis/thumbs/Erigeron%20humilis%2023-Jul-19%20_%2012_28_28.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Erigeron%20humilis/slides/Erigeron%20humilis%2023-Jul-19%20_%2012_28_28.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Erigeron%20humilis%2023-Jul-19%20_%2012_28_28.jpg</guid>
+        </item>
+    </channel>
+</rss>

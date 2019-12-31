@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Armeria maritima</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.iceland-trip.cc/Flora/Armeria%20maritima/</jalbum:absolutePath>
+        <item>
+            <title>Armeria maritima 23-Jul-19 _ 12_29_48</title>
+            <link>http://www.iceland-trip.cc/Flora/Armeria%20maritima/slides/Armeria%20maritima%2023-Jul-19%20_%2012_29_48.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:24 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Armeria%20maritima/thumbs/Armeria%20maritima%2023-Jul-19%20_%2012_29_48.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Armeria%20maritima/slides/Armeria%20maritima%2023-Jul-19%20_%2012_29_48.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Armeria%20maritima%2023-Jul-19%20_%2012_29_48.jpg</guid>
+        </item>
+        <item>
+            <title>Armeria maritima 23-Jul-19 _ 12_29_54</title>
+            <link>http://www.iceland-trip.cc/Flora/Armeria%20maritima/slides/Armeria%20maritima%2023-Jul-19%20_%2012_29_54.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:24 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Armeria%20maritima/thumbs/Armeria%20maritima%2023-Jul-19%20_%2012_29_54.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Armeria%20maritima/slides/Armeria%20maritima%2023-Jul-19%20_%2012_29_54.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Armeria%20maritima%2023-Jul-19%20_%2012_29_54.jpg</guid>
+        </item>
+        <item>
+            <title>Armeria maritima 23-Jul-19 _ 12_30_00</title>
+            <link>http://www.iceland-trip.cc/Flora/Armeria%20maritima/slides/Armeria%20maritima%2023-Jul-19%20_%2012_30_00.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:24 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Armeria%20maritima/thumbs/Armeria%20maritima%2023-Jul-19%20_%2012_30_00.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Armeria%20maritima/slides/Armeria%20maritima%2023-Jul-19%20_%2012_30_00.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Armeria%20maritima%2023-Jul-19%20_%2012_30_00.jpg</guid>
+        </item>
+        <item>
+            <title>Armeria maritima 23-Jul-19 _ 12_30_02</title>
+            <link>http://www.iceland-trip.cc/Flora/Armeria%20maritima/slides/Armeria%20maritima%2023-Jul-19%20_%2012_30_02.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:24 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Armeria%20maritima/thumbs/Armeria%20maritima%2023-Jul-19%20_%2012_30_02.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Armeria%20maritima/slides/Armeria%20maritima%2023-Jul-19%20_%2012_30_02.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Armeria%20maritima%2023-Jul-19%20_%2012_30_02.jpg</guid>
+        </item>
+    </channel>
+</rss>

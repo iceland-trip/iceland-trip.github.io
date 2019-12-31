@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Old City</title>
+   	<link>..</link>
+        <generator>jAlbum 19.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.iceland-trip.cc/Old%20City/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Old%20City/Mason/album.rss" title="Mason" thumbnail="http://www.iceland-trip.cc/Old%20City/Mason/thumbs/Mason%2024-Jul-19%20_%2017_32_44.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+        <item>
+            <title>Old City 24-Jul-19 _ 17_09_14</title>
+            <link>http://www.iceland-trip.cc/Old%20City/slides/Old%20City%2024-Jul-19%20_%2017_09_14.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:47:32 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Old%20City/thumbs/Old%20City%2024-Jul-19%20_%2017_09_14.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Old%20City/slides/Old%20City%2024-Jul-19%20_%2017_09_14.jpg" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 24 Jul 2019 17:09:14 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/Old%20City%2024-Jul-19%20_%2017_09_14.jpg</guid>
+        </item>
+        <item>
+            <title>Old City 24-Jul-19 _ 17_09_24</title>
+            <link>http://www.iceland-trip.cc/Old%20City/slides/Old%20City%2024-Jul-19%20_%2017_09_24.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:47:32 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Old%20City/thumbs/Old%20City%2024-Jul-19%20_%2017_09_24.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Old%20City/slides/Old%20City%2024-Jul-19%20_%2017_09_24.jpg" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 24 Jul 2019 17:09:24 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/Old%20City%2024-Jul-19%20_%2017_09_24.jpg</guid>
+        </item>
+        <item>
+            <title>Old City 24-Jul-19 _ 17_09_30</title>
+            <link>http://www.iceland-trip.cc/Old%20City/slides/Old%20City%2024-Jul-19%20_%2017_09_30.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:47:32 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Old%20City/thumbs/Old%20City%2024-Jul-19%20_%2017_09_30.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Old%20City/slides/Old%20City%2024-Jul-19%20_%2017_09_30.jpg" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 24 Jul 2019 17:09:31 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/Old%20City%2024-Jul-19%20_%2017_09_30.jpg</guid>
+        </item>
+    </channel>
+</rss>

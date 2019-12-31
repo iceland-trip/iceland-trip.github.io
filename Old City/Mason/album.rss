@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Mason</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.iceland-trip.cc/Old%20City/Mason/</jalbum:absolutePath>
+        <item>
+            <title>Mason 24-Jul-19 _ 17_32_44</title>
+            <link>http://www.iceland-trip.cc/Old%20City/Mason/slides/Mason%2024-Jul-19%20_%2017_32_44.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:47:38 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Old%20City/Mason/thumbs/Mason%2024-Jul-19%20_%2017_32_44.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Old%20City/Mason/slides/Mason%2024-Jul-19%20_%2017_32_44.jpg" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 24 Jul 2019 17:32:44 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/Mason%2024-Jul-19%20_%2017_32_44.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Skogar</title>
+   	<link>..</link>
+        <generator>jAlbum 19.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.iceland-trip.cc/Skogar/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Skogar/Above/album.rss" title="Above" thumbnail="http://www.iceland-trip.cc/Skogar/Above/thumbs/Above%2025-Jul-19%20_%2013_02_06.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Skogar/Below/album.rss" title="Below" thumbnail="http://www.iceland-trip.cc/Skogar/Below/thumbs/Below%2025-Jul-19%20_%2013_13_38.jpg" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Skogar/Sheep/album.rss" title="Sheep" thumbnail="http://www.iceland-trip.cc/Skogar/Sheep/thumbs/Sheep%2025-Jul-19%20_%2013_20_40.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    </channel>
+</rss>

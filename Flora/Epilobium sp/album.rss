@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Epilobium sp</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.iceland-trip.cc/Flora/Epilobium%20sp/</jalbum:absolutePath>
+        <item>
+            <title>Epilobium sp 22-Jul-19 _ 12_22_08</title>
+            <link>http://www.iceland-trip.cc/Flora/Epilobium%20sp/slides/Epilobium%20sp%2022-Jul-19%20_%2012_22_08.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:25 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Epilobium%20sp/thumbs/Epilobium%20sp%2022-Jul-19%20_%2012_22_08.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Epilobium%20sp/slides/Epilobium%20sp%2022-Jul-19%20_%2012_22_08.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Epilobium%20sp%2022-Jul-19%20_%2012_22_08.jpg</guid>
+        </item>
+        <item>
+            <title>Epilobium sp 22-Jul-19 _ 12_22_18</title>
+            <link>http://www.iceland-trip.cc/Flora/Epilobium%20sp/slides/Epilobium%20sp%2022-Jul-19%20_%2012_22_18.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:25 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Epilobium%20sp/thumbs/Epilobium%20sp%2022-Jul-19%20_%2012_22_18.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Epilobium%20sp/slides/Epilobium%20sp%2022-Jul-19%20_%2012_22_18.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Epilobium%20sp%2022-Jul-19%20_%2012_22_18.jpg</guid>
+        </item>
+        <item>
+            <title>Epilobium sp 22-Jul-19 _ 12_22_24</title>
+            <link>http://www.iceland-trip.cc/Flora/Epilobium%20sp/slides/Epilobium%20sp%2022-Jul-19%20_%2012_22_24.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:25 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Epilobium%20sp/thumbs/Epilobium%20sp%2022-Jul-19%20_%2012_22_24.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Epilobium%20sp/slides/Epilobium%20sp%2022-Jul-19%20_%2012_22_24.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Epilobium%20sp%2022-Jul-19%20_%2012_22_24.jpg</guid>
+        </item>
+        <item>
+            <title>Epilobium sp 22-Jul-19 _ 12_22_36</title>
+            <link>http://www.iceland-trip.cc/Flora/Epilobium%20sp/slides/Epilobium%20sp%2022-Jul-19%20_%2012_22_36.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:25 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Epilobium%20sp/thumbs/Epilobium%20sp%2022-Jul-19%20_%2012_22_36.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Epilobium%20sp/slides/Epilobium%20sp%2022-Jul-19%20_%2012_22_36.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Epilobium%20sp%2022-Jul-19%20_%2012_22_36.jpg</guid>
+        </item>
+    </channel>
+</rss>

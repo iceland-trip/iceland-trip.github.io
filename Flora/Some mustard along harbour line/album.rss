@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Some mustard along harbour line</title>
+   	<link>../..</link>
+        <generator>jAlbum 18.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://herbarium.info/Flora/Some%20mustard%20along%20harbour%20line/</jalbum:absolutePath>
+        <item>
+            <title>Some mustard along harbour line 26-Jul-19 _ 17_31_46</title>
+            <link>http://herbarium.info/Flora/Some%20mustard%20along%20harbour%20line/slides/Some%20mustard%20along%20harbour%20line%2026-Jul-19%20_%2017_31_46.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:44:10 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://herbarium.info/Flora/Some%20mustard%20along%20harbour%20line/thumbs/Some%20mustard%20along%20harbour%20line%2026-Jul-19%20_%2017_31_46.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://herbarium.info/Flora/Some%20mustard%20along%20harbour%20line/slides/Some%20mustard%20along%20harbour%20line%2026-Jul-19%20_%2017_31_46.jpg" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Fri, 26 Jul 2019 17:31:46 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/Some%20mustard%20along%20harbour%20line%2026-Jul-19%20_%2017_31_46.jpg</guid>
+        </item>
+        <item>
+            <title>Some mustard along harbour line 26-Jul-19 _ 17_31_56</title>
+            <link>http://herbarium.info/Flora/Some%20mustard%20along%20harbour%20line/slides/Some%20mustard%20along%20harbour%20line%2026-Jul-19%20_%2017_31_56.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:44:10 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://herbarium.info/Flora/Some%20mustard%20along%20harbour%20line/thumbs/Some%20mustard%20along%20harbour%20line%2026-Jul-19%20_%2017_31_56.jpg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://herbarium.info/Flora/Some%20mustard%20along%20harbour%20line/slides/Some%20mustard%20along%20harbour%20line%2026-Jul-19%20_%2017_31_56.jpg" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Fri, 26 Jul 2019 17:32:03 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/Some%20mustard%20along%20harbour%20line%2026-Jul-19%20_%2017_31_56.jpg</guid>
+        </item>
+        <item>
+            <title>Some mustard along harbour line 26-Jul-19 _ 17_32_02</title>
+            <link>http://herbarium.info/Flora/Some%20mustard%20along%20harbour%20line/slides/Some%20mustard%20along%20harbour%20line%2026-Jul-19%20_%2017_32_02.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:44:10 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://herbarium.info/Flora/Some%20mustard%20along%20harbour%20line/thumbs/Some%20mustard%20along%20harbour%20line%2026-Jul-19%20_%2017_32_02.jpg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://herbarium.info/Flora/Some%20mustard%20along%20harbour%20line/slides/Some%20mustard%20along%20harbour%20line%2026-Jul-19%20_%2017_32_02.jpg" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Fri, 26 Jul 2019 17:32:03 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/Some%20mustard%20along%20harbour%20line%2026-Jul-19%20_%2017_32_02.jpg</guid>
+        </item>
+        <item>
+            <title>Some mustard along harbour line 26-Jul-19 _ 17_32_06</title>
+            <link>http://herbarium.info/Flora/Some%20mustard%20along%20harbour%20line/slides/Some%20mustard%20along%20harbour%20line%2026-Jul-19%20_%2017_32_06.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:44:10 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://herbarium.info/Flora/Some%20mustard%20along%20harbour%20line/thumbs/Some%20mustard%20along%20harbour%20line%2026-Jul-19%20_%2017_32_06.jpg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://herbarium.info/Flora/Some%20mustard%20along%20harbour%20line/slides/Some%20mustard%20along%20harbour%20line%2026-Jul-19%20_%2017_32_06.jpg" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Fri, 26 Jul 2019 17:32:07 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/Some%20mustard%20along%20harbour%20line%2026-Jul-19%20_%2017_32_06.jpg</guid>
+        </item>
+    </channel>
+</rss>

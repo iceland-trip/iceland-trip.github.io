@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Betula nana</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.iceland-trip.cc/Flora/Betula%20nana/</jalbum:absolutePath>
+        <item>
+            <title>Betula nana 22-Jul-19 _ 11_58_32</title>
+            <link>http://www.iceland-trip.cc/Flora/Betula%20nana/slides/Betula%20nana%2022-Jul-19%20_%2011_58_32.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:24 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Betula%20nana/thumbs/Betula%20nana%2022-Jul-19%20_%2011_58_32.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Betula%20nana/slides/Betula%20nana%2022-Jul-19%20_%2011_58_32.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Betula%20nana%2022-Jul-19%20_%2011_58_32.jpg</guid>
+        </item>
+        <item>
+            <title>Betula nana 22-Jul-19 _ 11_58_40</title>
+            <link>http://www.iceland-trip.cc/Flora/Betula%20nana/slides/Betula%20nana%2022-Jul-19%20_%2011_58_40.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:24 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Betula%20nana/thumbs/Betula%20nana%2022-Jul-19%20_%2011_58_40.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Betula%20nana/slides/Betula%20nana%2022-Jul-19%20_%2011_58_40.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Betula%20nana%2022-Jul-19%20_%2011_58_40.jpg</guid>
+        </item>
+        <item>
+            <title>Betula nana 22-Jul-19 _ 11_58_46</title>
+            <link>http://www.iceland-trip.cc/Flora/Betula%20nana/slides/Betula%20nana%2022-Jul-19%20_%2011_58_46.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:24 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Betula%20nana/thumbs/Betula%20nana%2022-Jul-19%20_%2011_58_46.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Betula%20nana/slides/Betula%20nana%2022-Jul-19%20_%2011_58_46.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Betula%20nana%2022-Jul-19%20_%2011_58_46.jpg</guid>
+        </item>
+        <item>
+            <title>Betula nana 22-Jul-19 _ 11_58_50</title>
+            <link>http://www.iceland-trip.cc/Flora/Betula%20nana/slides/Betula%20nana%2022-Jul-19%20_%2011_58_50.jpg</link>
+            <pubDate>Tue, 19 Nov 2019 21:42:24 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Betula%20nana/thumbs/Betula%20nana%2022-Jul-19%20_%2011_58_50.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Betula%20nana/slides/Betula%20nana%2022-Jul-19%20_%2011_58_50.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Betula%20nana%2022-Jul-19%20_%2011_58_50.jpg</guid>
+        </item>
+    </channel>
+</rss>

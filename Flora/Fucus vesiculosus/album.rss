@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Fucus vesiculosus</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.iceland-trip.cc/Flora/Fucus%20vesiculosus/</jalbum:absolutePath>
+        <item>
+            <title>Fucus vesiculosus 26-Jul-19 _ 17_24_22</title>
+            <link>http://www.iceland-trip.cc/Flora/Fucus%20vesiculosus/slides/Fucus%20vesiculosus%2026-Jul-19%20_%2017_24_22.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 23:46:29 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Fucus%20vesiculosus/thumbs/Fucus%20vesiculosus%2026-Jul-19%20_%2017_24_22.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Fucus%20vesiculosus/slides/Fucus%20vesiculosus%2026-Jul-19%20_%2017_24_22.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Fucus%20vesiculosus%2026-Jul-19%20_%2017_24_22.jpg</guid>
+        </item>
+        <item>
+            <title>Fucus vesiculosus 26-Jul-19 _ 17_24_32</title>
+            <link>http://www.iceland-trip.cc/Flora/Fucus%20vesiculosus/slides/Fucus%20vesiculosus%2026-Jul-19%20_%2017_24_32.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 23:46:29 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Fucus%20vesiculosus/thumbs/Fucus%20vesiculosus%2026-Jul-19%20_%2017_24_32.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Fucus%20vesiculosus/slides/Fucus%20vesiculosus%2026-Jul-19%20_%2017_24_32.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Fucus%20vesiculosus%2026-Jul-19%20_%2017_24_32.jpg</guid>
+        </item>
+        <item>
+            <title>Fucus vesiculosus 26-Jul-19 _ 17_24_34</title>
+            <link>http://www.iceland-trip.cc/Flora/Fucus%20vesiculosus/slides/Fucus%20vesiculosus%2026-Jul-19%20_%2017_24_34.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 23:46:29 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Fucus%20vesiculosus/thumbs/Fucus%20vesiculosus%2026-Jul-19%20_%2017_24_34.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Fucus%20vesiculosus/slides/Fucus%20vesiculosus%2026-Jul-19%20_%2017_24_34.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Fucus%20vesiculosus%2026-Jul-19%20_%2017_24_34.jpg</guid>
+        </item>
+    </channel>
+</rss>

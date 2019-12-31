@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Iceland 2019</title>
+   	<link>.</link>
+        <generator>jAlbum 19.1</generator>
+   		<description>Iceland Journey. Summer 2019.
+
+Iceland, a Nordic island nation, is defined by its dramatic landscape with volcanoes, geysers, hot springs and lava fields. Massive glaciers are protected in Vatnajökull and Snæfellsjökull national parks. Most of the population lives in the capital, Reykjavik, which runs on geothermal power and is home to the National and Saga museums, tracing Iceland’s Viking history.</description>
+        <jalbum:absolutePath>http://www.iceland-trip.cc/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Flora/album.rss" title="Flora" thumbnail="http://www.iceland-trip.cc/Flora/Lupinus%20nootkatensis/thumbs/Lupinus%20nootkatensis%2025-Jul-19%20_%2014_56_04.jpg" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Fluthir/album.rss" title="Fluthir" thumbnail="http://www.iceland-trip.cc/Fluthir/thumbs/Fluthir%2023-Jul-19%20_%2015_26_10.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Geysir/album.rss" title="Geysir" thumbnail="http://www.iceland-trip.cc/Geysir/thumbs/Geysir%2023-Jul-19%20_%2013_32_34.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Gullfoss/album.rss" title="Gullfoss" thumbnail="http://www.iceland-trip.cc/Gullfoss/Above/thumbs/Above%2023-Jul-19%20_%2012_23_04.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Halsanefshellir/album.rss" title="Halsanefshellir" thumbnail="http://www.iceland-trip.cc/Halsanefshellir/thumbs/Halsanefshellir%2025-Jul-19%20_%2015_59_56.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Iceland%20National%20Museum/album.rss" title="Iceland National Museum" thumbnail="http://www.iceland-trip.cc/Iceland%20National%20Museum/thumbs/Iceland%20National%20Museum%2024-Jul-19%20_%2014_05_52.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Old%20City/album.rss" title="Old City" thumbnail="http://www.iceland-trip.cc/Old%20City/thumbs/Old%20City%2024-Jul-19%20_%2017_09_14.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Old%20Harbour/album.rss" title="Old Harbour" thumbnail="http://www.iceland-trip.cc/Old%20Harbour/thumbs/Old%20Harbour%2026-Jul-19%20_%2017_27_10.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Reykjavik/album.rss" title="Reykjavik" thumbnail="http://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Outside/thumbs/Outside%2022-Jul-19%20_%2012_24_38.jpg" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Seljalandfoss/album.rss" title="Seljalandfoss" thumbnail="http://www.iceland-trip.cc/Seljalandfoss/thumbs/Seljalandfoss%2025-Jul-19%20_%2018_21_42.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Skogar/album.rss" title="Skogar" thumbnail="http://www.iceland-trip.cc/Skogar/Above/thumbs/Above%2025-Jul-19%20_%2013_02_06.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Solheimaj%C3%B6kulsvegur/album.rss" title="Solheimajökulsvegur" thumbnail="http://www.iceland-trip.cc/Solheimaj%C3%B6kulsvegur/thumbs/Solheimaj%C3%B6kulsvegur%2025-Jul-19%20_%2017_08_18.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Thingvellir/album.rss" title="Thingvellir" thumbnail="http://www.iceland-trip.cc/Thingvellir/thumbs/Thingvellir%2023-Jul-19%20_%2010_30_44.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Trolls/album.rss" title="Trolls" thumbnail="http://www.iceland-trip.cc/Trolls/thumbs/Trolls%2025-Jul-19%20_%2016_01_50.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Vik/album.rss" title="Vik" thumbnail="http://www.iceland-trip.cc/Vik/thumbs/Vik%2025-Jul-19%20_%2015_06_46.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Whalewatching/album.rss" title="Whalewatching" thumbnail="http://www.iceland-trip.cc/Whalewatching/thumbs/Whalewatching%20with%20Elding%2026-Jul-19%20_%2014_10_30.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Valeriana officinalis</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.iceland-trip.cc/Flora/Valeriana%20officinalis/</jalbum:absolutePath>
+        <item>
+            <title>Valeriana officinalis 22-Jul-19 _ 11_48_06</title>
+            <link>http://www.iceland-trip.cc/Flora/Valeriana%20officinalis/slides/Valeriana%20officinalis%2022-Jul-19%20_%2011_48_06.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:44:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Valeriana%20officinalis/thumbs/Valeriana%20officinalis%2022-Jul-19%20_%2011_48_06.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Valeriana%20officinalis/slides/Valeriana%20officinalis%2022-Jul-19%20_%2011_48_06.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Valeriana%20officinalis%2022-Jul-19%20_%2011_48_06.jpg</guid>
+        </item>
+        <item>
+            <title>Valeriana officinalis 22-Jul-19 _ 11_48_12</title>
+            <link>http://www.iceland-trip.cc/Flora/Valeriana%20officinalis/slides/Valeriana%20officinalis%2022-Jul-19%20_%2011_48_12.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:44:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Valeriana%20officinalis/thumbs/Valeriana%20officinalis%2022-Jul-19%20_%2011_48_12.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Valeriana%20officinalis/slides/Valeriana%20officinalis%2022-Jul-19%20_%2011_48_12.jpg" width="1680" height="1260"/>
+            <guid isPermaLink="false">slides/Valeriana%20officinalis%2022-Jul-19%20_%2011_48_12.jpg</guid>
+        </item>
+        <item>
+            <title>Valeriana officinalis 22-Jul-19 _ 11_48_18</title>
+            <link>http://www.iceland-trip.cc/Flora/Valeriana%20officinalis/slides/Valeriana%20officinalis%2022-Jul-19%20_%2011_48_18.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:44:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Valeriana%20officinalis/thumbs/Valeriana%20officinalis%2022-Jul-19%20_%2011_48_18.jpg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Valeriana%20officinalis/slides/Valeriana%20officinalis%2022-Jul-19%20_%2011_48_18.jpg" width="1260" height="1680"/>
+            <guid isPermaLink="false">slides/Valeriana%20officinalis%2022-Jul-19%20_%2011_48_18.jpg</guid>
+        </item>
+        <item>
+            <title>Valeriana officinalis 22-Jul-19 _ 11_48_24</title>
+            <link>http://www.iceland-trip.cc/Flora/Valeriana%20officinalis/slides/Valeriana%20officinalis%2022-Jul-19%20_%2011_48_24.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 22:44:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.iceland-trip.cc/Flora/Valeriana%20officinalis/thumbs/Valeriana%20officinalis%2022-Jul-19%20_%2011_48_24.jpg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Flora/Valeriana%20officinalis/slides/Valeriana%20officinalis%2022-Jul-19%20_%2011_48_24.jpg" width="1260" height="1680"/>
+            <guid isPermaLink="false">slides/Valeriana%20officinalis%2022-Jul-19%20_%2011_48_24.jpg</guid>
+        </item>
+    </channel>
+</rss>
