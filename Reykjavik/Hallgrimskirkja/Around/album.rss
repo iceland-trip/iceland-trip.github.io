@@ -5,7 +5,7 @@
     <channel>
         <title>Around</title>
    	<link>../../..</link>
-        <generator>jAlbum 19.1</generator>
+        <generator>jAlbum 19.2</generator>
    		<description></description>
         <jalbum:absolutePath>http://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Around/</jalbum:absolutePath>
         <item>
@@ -49,7 +49,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Around/thumbs/Around%2022-Jul-19%20_%2013_26_58.jpg" width="270" height="360"/>
             <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Around/slides/Around%2022-Jul-19%20_%2013_26_58.jpg" width="1260" height="1680"/>
-            <jalbum:exif originalDate="Mon, 22 Jul 2019 13:26:59 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 13:26:45 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Around%2022-Jul-19%20_%2013_26_58.jpg</guid>
         </item>
     </channel>

@@ -8,7 +8,6 @@ global: {
 	outerBorder:0,
 	innerBorder:0,
 	boxCornerRadius:0,
-	autoFitSpace:15,
 	enableImageResize:false,
 	enableDragMove:false,
 	titleAsCaption:false,
@@ -32,6 +31,7 @@ global: {
 	controlsPos:'br',
 	navType:'overlay',
 	navOverlayWidth:45,
+	autoFitSpace:15,
 	enableWrap:false,
 	autoEndVideo:false,
 	autoPlayVideo:false,
@@ -43,6 +43,7 @@ mobile: {
 	strictCentering:false,
 	imageTransition:'slide',
 	preloadLimit:1,
+	autoFitSpace:5,
 	showNavOverlay:false
 }
 };

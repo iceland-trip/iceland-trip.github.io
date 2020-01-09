@@ -5,7 +5,7 @@
     <channel>
         <title>Below</title>
    	<link>../..</link>
-        <generator>jAlbum 19.1</generator>
+        <generator>jAlbum 19.2</generator>
    		<description></description>
         <jalbum:absolutePath>http://www.iceland-trip.cc/Gullfoss/Below/</jalbum:absolutePath>
         <item>
@@ -16,7 +16,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.iceland-trip.cc/Gullfoss/Below/thumbs/Below%2023-Jul-19%20_%2012_38_12.jpg" width="480" height="360"/>
             <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Gullfoss/Below/slides/Below%2023-Jul-19%20_%2012_38_12.jpg" width="1680" height="1260"/>
-            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:39:41 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:38:12 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Below%2023-Jul-19%20_%2012_38_12.jpg</guid>
         </item>
         <item>
@@ -27,7 +27,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.iceland-trip.cc/Gullfoss/Below/thumbs/Below%2023-Jul-19%20_%2012_38_20.jpg" width="480" height="360"/>
             <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Gullfoss/Below/slides/Below%2023-Jul-19%20_%2012_38_20.jpg" width="1680" height="1260"/>
-            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:38:20 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:38:12 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Below%2023-Jul-19%20_%2012_38_20.jpg</guid>
         </item>
         <item>
@@ -71,7 +71,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.iceland-trip.cc/Gullfoss/Below/thumbs/Below%2023-Jul-19%20_%2012_39_56.jpg" width="480" height="360"/>
             <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Gullfoss/Below/slides/Below%2023-Jul-19%20_%2012_39_56.jpg" width="1680" height="1260"/>
-            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:39:58 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:39:56 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Below%2023-Jul-19%20_%2012_39_56.jpg</guid>
         </item>
         <item>

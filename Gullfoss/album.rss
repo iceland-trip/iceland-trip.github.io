@@ -5,7 +5,7 @@
     <channel>
         <title>Gullfoss</title>
    	<link>..</link>
-        <generator>jAlbum 19.1</generator>
+        <generator>jAlbum 19.2</generator>
    		<description></description>
         <jalbum:absolutePath>http://www.iceland-trip.cc/Gullfoss/</jalbum:absolutePath>
     	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Gullfoss/Above/album.rss" title="Above" thumbnail="http://www.iceland-trip.cc/Gullfoss/Above/thumbs/Above%2023-Jul-19%20_%2012_23_04.jpg" thumbnailWidth="480" thumbnailHeight="360" />

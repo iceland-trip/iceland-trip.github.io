@@ -5,7 +5,7 @@
     <channel>
         <title>Halsanefshellir</title>
    	<link>..</link>
-        <generator>jAlbum 19.1</generator>
+        <generator>jAlbum 19.2</generator>
    		<description></description>
         <jalbum:absolutePath>http://www.iceland-trip.cc/Halsanefshellir/</jalbum:absolutePath>
         <item>
@@ -38,7 +38,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.iceland-trip.cc/Halsanefshellir/thumbs/Halsanefshellir%2025-Jul-19%20_%2015_53_00.jpg" width="480" height="360"/>
             <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Halsanefshellir/slides/Halsanefshellir%2025-Jul-19%20_%2015_53_00.jpg" width="1680" height="1260"/>
-            <jalbum:exif originalDate="Thu, 25 Jul 2019 15:53:01 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Thu, 25 Jul 2019 15:51:49 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Halsanefshellir%2025-Jul-19%20_%2015_53_00.jpg</guid>
         </item>
         <item>
@@ -49,7 +49,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.iceland-trip.cc/Halsanefshellir/thumbs/Halsanefshellir%2025-Jul-19%20_%2015_53_46.jpg" width="480" height="360"/>
             <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Halsanefshellir/slides/Halsanefshellir%2025-Jul-19%20_%2015_53_46.jpg" width="1680" height="1260"/>
-            <jalbum:exif originalDate="Thu, 25 Jul 2019 15:54:25 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Thu, 25 Jul 2019 15:53:46 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Halsanefshellir%2025-Jul-19%20_%2015_53_46.jpg</guid>
         </item>
         <item>
@@ -104,7 +104,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.iceland-trip.cc/Halsanefshellir/thumbs/Halsanefshellir%2025-Jul-19%20_%2015_55_16.jpg" width="480" height="360"/>
             <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Halsanefshellir/slides/Halsanefshellir%2025-Jul-19%20_%2015_55_16.jpg" width="1680" height="1260"/>
-            <jalbum:exif originalDate="Thu, 25 Jul 2019 15:55:03 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Thu, 25 Jul 2019 15:55:17 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Halsanefshellir%2025-Jul-19%20_%2015_55_16.jpg</guid>
         </item>
         <item>

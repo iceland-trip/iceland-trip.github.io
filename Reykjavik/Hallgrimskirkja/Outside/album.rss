@@ -5,7 +5,7 @@
     <channel>
         <title>Outside</title>
    	<link>../../..</link>
-        <generator>jAlbum 19.1</generator>
+        <generator>jAlbum 19.2</generator>
    		<description></description>
         <jalbum:absolutePath>http://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Outside/</jalbum:absolutePath>
         <item>
@@ -16,7 +16,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Outside/thumbs/Outside%2022-Jul-19%20_%2012_21_22.jpg" width="270" height="360"/>
             <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Outside/slides/Outside%2022-Jul-19%20_%2012_21_22.jpg" width="1260" height="1680"/>
-            <jalbum:exif originalDate="Mon, 22 Jul 2019 12:21:14 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 12:21:22 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Outside%2022-Jul-19%20_%2012_21_22.jpg</guid>
         </item>
         <item>
@@ -27,7 +27,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Outside/thumbs/Outside%2022-Jul-19%20_%2012_21_36.jpg" width="270" height="360"/>
             <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Outside/slides/Outside%2022-Jul-19%20_%2012_21_36.jpg" width="1260" height="1680"/>
-            <jalbum:exif originalDate="Mon, 22 Jul 2019 12:25:01 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 12:24:26 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Outside%2022-Jul-19%20_%2012_21_36.jpg</guid>
         </item>
         <item>

@@ -5,7 +5,7 @@
     <channel>
         <title>Geysir</title>
    	<link>..</link>
-        <generator>jAlbum 19.1</generator>
+        <generator>jAlbum 19.2</generator>
    		<description></description>
         <jalbum:absolutePath>http://www.iceland-trip.cc/Geysir/</jalbum:absolutePath>
         <item>
@@ -38,7 +38,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.iceland-trip.cc/Geysir/thumbs/Geysir%2023-Jul-19%20_%2013_32_40.jpg" width="480" height="360"/>
             <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Geysir/slides/Geysir%2023-Jul-19%20_%2013_32_40.jpg" width="1680" height="1260"/>
-            <jalbum:exif originalDate="Tue, 23 Jul 2019 13:32:41 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 13:32:35 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Geysir%2023-Jul-19%20_%2013_32_40.jpg</guid>
         </item>
         <item>
@@ -93,7 +93,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.iceland-trip.cc/Geysir/thumbs/Geysir%2023-Jul-19%20_%2013_34_10.jpg" width="480" height="360"/>
             <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Geysir/slides/Geysir%2023-Jul-19%20_%2013_34_10.jpg" width="1680" height="1260"/>
-            <jalbum:exif originalDate="Tue, 23 Jul 2019 13:37:34 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 13:34:10 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Geysir%2023-Jul-19%20_%2013_34_10.jpg</guid>
         </item>
         <item>
@@ -115,7 +115,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.iceland-trip.cc/Geysir/thumbs/Geysir%2023-Jul-19%20_%2013_34_24.jpg" width="270" height="360"/>
             <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Geysir/slides/Geysir%2023-Jul-19%20_%2013_34_24.jpg" width="1260" height="1680"/>
-            <jalbum:exif originalDate="Tue, 23 Jul 2019 13:32:41 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 13:34:25 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Geysir%2023-Jul-19%20_%2013_34_24.jpg</guid>
         </item>
         <item>

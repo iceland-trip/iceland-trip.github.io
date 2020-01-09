@@ -5,7 +5,7 @@
     <channel>
         <title>Below</title>
    	<link>../..</link>
-        <generator>jAlbum 19.1</generator>
+        <generator>jAlbum 19.2</generator>
    		<description></description>
         <jalbum:absolutePath>http://www.iceland-trip.cc/Skogar/Below/</jalbum:absolutePath>
         <item>
@@ -104,7 +104,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.iceland-trip.cc/Skogar/Below/thumbs/Below%2025-Jul-19%20_%2013_14_16.jpg" width="270" height="360"/>
             <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Skogar/Below/slides/Below%2025-Jul-19%20_%2013_14_16.jpg" width="1260" height="1680"/>
-            <jalbum:exif originalDate="Thu, 25 Jul 2019 13:13:14 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Thu, 25 Jul 2019 13:14:17 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Below%2025-Jul-19%20_%2013_14_16.jpg</guid>
         </item>
         <item>

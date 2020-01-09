@@ -5,7 +5,7 @@
     <channel>
         <title>Stairs</title>
    	<link>../..</link>
-        <generator>jAlbum 19.1</generator>
+        <generator>jAlbum 19.2</generator>
    		<description></description>
         <jalbum:absolutePath>http://www.iceland-trip.cc/Gullfoss/Stairs/</jalbum:absolutePath>
         <item>
@@ -115,7 +115,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.iceland-trip.cc/Gullfoss/Stairs/thumbs/Stairs%2023-Jul-19%20_%2012_35_26.jpg" width="480" height="360"/>
             <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Gullfoss/Stairs/slides/Stairs%2023-Jul-19%20_%2012_35_26.jpg" width="1680" height="1260"/>
-            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:35:26 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:33:53 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Stairs%2023-Jul-19%20_%2012_35_26.jpg</guid>
         </item>
     </channel>

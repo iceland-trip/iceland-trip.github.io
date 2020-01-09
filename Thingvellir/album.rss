@@ -5,7 +5,7 @@
     <channel>
         <title>Thingvellir</title>
    	<link>..</link>
-        <generator>jAlbum 19.1</generator>
+        <generator>jAlbum 19.2</generator>
    		<description></description>
         <jalbum:absolutePath>http://www.iceland-trip.cc/Thingvellir/</jalbum:absolutePath>
         <item>
@@ -60,7 +60,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.iceland-trip.cc/Thingvellir/thumbs/Thingvellir%2023-Jul-19%20_%2010_30_18.jpg" width="480" height="360"/>
             <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Thingvellir/slides/Thingvellir%2023-Jul-19%20_%2010_30_18.jpg" width="1680" height="1260"/>
-            <jalbum:exif originalDate="Tue, 23 Jul 2019 10:27:13 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 10:30:19 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Thingvellir%2023-Jul-19%20_%2010_30_18.jpg</guid>
         </item>
         <item>

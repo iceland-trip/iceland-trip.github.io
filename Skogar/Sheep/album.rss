@@ -5,7 +5,7 @@
     <channel>
         <title>Sheep</title>
    	<link>../..</link>
-        <generator>jAlbum 19.1</generator>
+        <generator>jAlbum 19.2</generator>
    		<description></description>
         <jalbum:absolutePath>http://www.iceland-trip.cc/Skogar/Sheep/</jalbum:absolutePath>
         <item>
@@ -49,7 +49,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.iceland-trip.cc/Skogar/Sheep/thumbs/Sheep%2025-Jul-19%20_%2013_20_40.jpg" width="480" height="360"/>
             <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Skogar/Sheep/slides/Sheep%2025-Jul-19%20_%2013_20_40.jpg" width="1680" height="1260"/>
-            <jalbum:exif originalDate="Thu, 25 Jul 2019 13:22:52 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Thu, 25 Jul 2019 13:20:17 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Sheep%2025-Jul-19%20_%2013_20_40.jpg</guid>
         </item>
         <item>
