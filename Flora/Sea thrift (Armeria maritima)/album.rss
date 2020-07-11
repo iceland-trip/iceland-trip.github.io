@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Sea thrift (Armeria maritima)</title>
+   	<link>../..</link>
+        <generator>jAlbum 20.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://www.iceland-trip.cc/Flora/Sea%20thrift%20%28Armeria%20maritima%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC01261</title>
+            <link>https://www.iceland-trip.cc/Flora/Sea%20thrift%20%28Armeria%20maritima%29/slides/DSC01261.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Sea%20thrift%20%28Armeria%20maritima%29/thumbs/DSC01261.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Sea%20thrift%20%28Armeria%20maritima%29/slides/DSC01261.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:29:48 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01261.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01262</title>
+            <link>https://www.iceland-trip.cc/Flora/Sea%20thrift%20%28Armeria%20maritima%29/slides/DSC01262.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Sea%20thrift%20%28Armeria%20maritima%29/thumbs/DSC01262.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Sea%20thrift%20%28Armeria%20maritima%29/slides/DSC01262.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:29:55 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01262.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01263</title>
+            <link>https://www.iceland-trip.cc/Flora/Sea%20thrift%20%28Armeria%20maritima%29/slides/DSC01263.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Sea%20thrift%20%28Armeria%20maritima%29/thumbs/DSC01263.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Sea%20thrift%20%28Armeria%20maritima%29/slides/DSC01263.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:30:00 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01263.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01264</title>
+            <link>https://www.iceland-trip.cc/Flora/Sea%20thrift%20%28Armeria%20maritima%29/slides/DSC01264.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Sea%20thrift%20%28Armeria%20maritima%29/thumbs/DSC01264.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Sea%20thrift%20%28Armeria%20maritima%29/slides/DSC01264.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:30:03 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01264.JPG</guid>
+        </item>
+    </channel>
+</rss>

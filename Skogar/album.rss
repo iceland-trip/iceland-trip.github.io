@@ -5,11 +5,11 @@
     <channel>
         <title>Skogar</title>
    	<link>..</link>
-        <generator>jAlbum 19.2</generator>
+        <generator>jAlbum 20.2</generator>
    		<description></description>
-        <jalbum:absolutePath>http://www.iceland-trip.cc/Skogar/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Skogar/Above/album.rss" title="Above" thumbnail="http://www.iceland-trip.cc/Skogar/Above/thumbs/Above%2025-Jul-19%20_%2013_02_06.jpg" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Skogar/Below/album.rss" title="Below" thumbnail="http://www.iceland-trip.cc/Skogar/Below/thumbs/Below%2025-Jul-19%20_%2013_13_38.jpg" thumbnailWidth="270" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Skogar/Sheep/album.rss" title="Sheep" thumbnail="http://www.iceland-trip.cc/Skogar/Sheep/thumbs/Sheep%2025-Jul-19%20_%2013_20_40.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+        <jalbum:absolutePath>https://www.iceland-trip.cc/Skogar/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://www.iceland-trip.cc/Skogar/Above/album.rss" title="Above" thumbnail="https://www.iceland-trip.cc/Skogar/Above/thumbs/Above%2025-Jul-19%20_%2013_02_06.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://www.iceland-trip.cc/Skogar/Below/album.rss" title="Below" thumbnail="https://www.iceland-trip.cc/Skogar/Below/thumbs/Below%2025-Jul-19%20_%2013_13_38.jpg" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://www.iceland-trip.cc/Skogar/Sheep/album.rss" title="Sheep" thumbnail="https://www.iceland-trip.cc/Skogar/Sheep/thumbs/Sheep%2025-Jul-19%20_%2013_20_40.jpg" thumbnailWidth="480" thumbnailHeight="360" />
     </channel>
 </rss>

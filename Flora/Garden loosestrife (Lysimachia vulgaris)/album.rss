@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Garden loosestrife (Lysimachia vulgaris)</title>
+   	<link>../..</link>
+        <generator>jAlbum 20.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://www.iceland-trip.cc/Flora/Garden%20loosestrife%20%28Lysimachia%20vulgaris%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC01146</title>
+            <link>https://www.iceland-trip.cc/Flora/Garden%20loosestrife%20%28Lysimachia%20vulgaris%29/slides/DSC01146.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Garden%20loosestrife%20%28Lysimachia%20vulgaris%29/thumbs/DSC01146.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Garden%20loosestrife%20%28Lysimachia%20vulgaris%29/slides/DSC01146.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 11:57:46 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01146.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01147</title>
+            <link>https://www.iceland-trip.cc/Flora/Garden%20loosestrife%20%28Lysimachia%20vulgaris%29/slides/DSC01147.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Garden%20loosestrife%20%28Lysimachia%20vulgaris%29/thumbs/DSC01147.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Garden%20loosestrife%20%28Lysimachia%20vulgaris%29/slides/DSC01147.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 11:57:53 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01147.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01148</title>
+            <link>https://www.iceland-trip.cc/Flora/Garden%20loosestrife%20%28Lysimachia%20vulgaris%29/slides/DSC01148.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Garden%20loosestrife%20%28Lysimachia%20vulgaris%29/thumbs/DSC01148.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Garden%20loosestrife%20%28Lysimachia%20vulgaris%29/slides/DSC01148.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 11:57:57 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01148.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01149</title>
+            <link>https://www.iceland-trip.cc/Flora/Garden%20loosestrife%20%28Lysimachia%20vulgaris%29/slides/DSC01149.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Garden%20loosestrife%20%28Lysimachia%20vulgaris%29/thumbs/DSC01149.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Garden%20loosestrife%20%28Lysimachia%20vulgaris%29/slides/DSC01149.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 11:58:05 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01149.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01150</title>
+            <link>https://www.iceland-trip.cc/Flora/Garden%20loosestrife%20%28Lysimachia%20vulgaris%29/slides/DSC01150.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Garden%20loosestrife%20%28Lysimachia%20vulgaris%29/thumbs/DSC01150.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Garden%20loosestrife%20%28Lysimachia%20vulgaris%29/slides/DSC01150.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 11:58:09 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01150.JPG</guid>
+        </item>
+    </channel>
+</rss>

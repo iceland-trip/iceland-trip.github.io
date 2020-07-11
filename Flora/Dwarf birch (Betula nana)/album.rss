@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Dwarf birch (Betula nana)</title>
+   	<link>../..</link>
+        <generator>jAlbum 20.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://www.iceland-trip.cc/Flora/Dwarf%20birch%20%28Betula%20nana%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC01151</title>
+            <link>https://www.iceland-trip.cc/Flora/Dwarf%20birch%20%28Betula%20nana%29/slides/DSC01151.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Dwarf%20birch%20%28Betula%20nana%29/thumbs/DSC01151.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Dwarf%20birch%20%28Betula%20nana%29/slides/DSC01151.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 11:58:33 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01151.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01152</title>
+            <link>https://www.iceland-trip.cc/Flora/Dwarf%20birch%20%28Betula%20nana%29/slides/DSC01152.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Dwarf%20birch%20%28Betula%20nana%29/thumbs/DSC01152.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Dwarf%20birch%20%28Betula%20nana%29/slides/DSC01152.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 11:58:41 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01152.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01153</title>
+            <link>https://www.iceland-trip.cc/Flora/Dwarf%20birch%20%28Betula%20nana%29/slides/DSC01153.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Dwarf%20birch%20%28Betula%20nana%29/thumbs/DSC01153.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Dwarf%20birch%20%28Betula%20nana%29/slides/DSC01153.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 11:58:47 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01153.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01154</title>
+            <link>https://www.iceland-trip.cc/Flora/Dwarf%20birch%20%28Betula%20nana%29/slides/DSC01154.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Dwarf%20birch%20%28Betula%20nana%29/thumbs/DSC01154.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Dwarf%20birch%20%28Betula%20nana%29/slides/DSC01154.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 11:58:50 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01154.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -5,17 +5,17 @@
     <channel>
         <title>Vik</title>
    	<link>..</link>
-        <generator>jAlbum 19.2</generator>
+        <generator>jAlbum 20.2</generator>
    		<description></description>
-        <jalbum:absolutePath>http://www.iceland-trip.cc/Vik/</jalbum:absolutePath>
+        <jalbum:absolutePath>https://www.iceland-trip.cc/Vik/</jalbum:absolutePath>
         <item>
             <title>Vik 25-Jul-19 _ 15_06_46</title>
-            <link>http://www.iceland-trip.cc/Vik/slides/Vik%2025-Jul-19%20_%2015_06_46.jpg</link>
-            <pubDate>Mon, 05 Aug 2019 22:50:11 +0300</pubDate>
+            <link>https://www.iceland-trip.cc/Vik/slides/Vik%2025-Jul-19%20_%2015_06_46.jpg</link>
+            <pubDate>Mon, 05 Aug 2019 23:35:15 +0300</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://www.iceland-trip.cc/Vik/thumbs/Vik%2025-Jul-19%20_%2015_06_46.jpg" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://www.iceland-trip.cc/Vik/slides/Vik%2025-Jul-19%20_%2015_06_46.jpg" width="1680" height="1260"/>
+            <media:thumbnail url="https://www.iceland-trip.cc/Vik/thumbs/Vik%2025-Jul-19%20_%2015_06_46.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Vik/slides/Vik%2025-Jul-19%20_%2015_06_46.jpg" width="1680" height="1260"/>
             <jalbum:exif originalDate="Thu, 25 Jul 2019 15:06:46 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/Vik%2025-Jul-19%20_%2015_06_46.jpg</guid>
         </item>

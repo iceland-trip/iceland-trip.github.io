@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Hoary Willowherb (Epilobium parviflorum)</title>
+   	<link>../..</link>
+        <generator>jAlbum 20.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://www.iceland-trip.cc/Flora/Hoary%20Willowherb%20%28Epilobium%20parviflorum%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC01184</title>
+            <link>https://www.iceland-trip.cc/Flora/Hoary%20Willowherb%20%28Epilobium%20parviflorum%29/slides/DSC01184.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Hoary%20Willowherb%20%28Epilobium%20parviflorum%29/thumbs/DSC01184.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Hoary%20Willowherb%20%28Epilobium%20parviflorum%29/slides/DSC01184.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 12:22:09 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01184.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01185</title>
+            <link>https://www.iceland-trip.cc/Flora/Hoary%20Willowherb%20%28Epilobium%20parviflorum%29/slides/DSC01185.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Hoary%20Willowherb%20%28Epilobium%20parviflorum%29/thumbs/DSC01185.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Hoary%20Willowherb%20%28Epilobium%20parviflorum%29/slides/DSC01185.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 12:22:18 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01185.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01186</title>
+            <link>https://www.iceland-trip.cc/Flora/Hoary%20Willowherb%20%28Epilobium%20parviflorum%29/slides/DSC01186.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Hoary%20Willowherb%20%28Epilobium%20parviflorum%29/thumbs/DSC01186.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Hoary%20Willowherb%20%28Epilobium%20parviflorum%29/slides/DSC01186.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 12:22:25 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01186.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01187</title>
+            <link>https://www.iceland-trip.cc/Flora/Hoary%20Willowherb%20%28Epilobium%20parviflorum%29/slides/DSC01187.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Hoary%20Willowherb%20%28Epilobium%20parviflorum%29/thumbs/DSC01187.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Hoary%20Willowherb%20%28Epilobium%20parviflorum%29/slides/DSC01187.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 12:22:37 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01187.JPG</guid>
+        </item>
+    </channel>
+</rss>

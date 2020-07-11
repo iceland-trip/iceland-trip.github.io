@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Northern bedstraw (Galium boreale)</title>
+   	<link>../..</link>
+        <generator>jAlbum 20.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://www.iceland-trip.cc/Flora/Northern%20bedstraw%20%28Galium%20boreale%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC01266</title>
+            <link>https://www.iceland-trip.cc/Flora/Northern%20bedstraw%20%28Galium%20boreale%29/slides/DSC01266.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Northern%20bedstraw%20%28Galium%20boreale%29/thumbs/DSC01266.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Northern%20bedstraw%20%28Galium%20boreale%29/slides/DSC01266.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:30:35 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01266.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01267</title>
+            <link>https://www.iceland-trip.cc/Flora/Northern%20bedstraw%20%28Galium%20boreale%29/slides/DSC01267.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Northern%20bedstraw%20%28Galium%20boreale%29/thumbs/DSC01267.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Northern%20bedstraw%20%28Galium%20boreale%29/slides/DSC01267.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:30:39 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01267.JPG</guid>
+        </item>
+    </channel>
+</rss>

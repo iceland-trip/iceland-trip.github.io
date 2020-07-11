@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Arctic Alpine fleabane (Erigeron humilis)</title>
+   	<link>../..</link>
+        <generator>jAlbum 20.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://www.iceland-trip.cc/Flora/Arctic%20Alpine%20fleabane%20%28Erigeron%20humilis%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC01254</title>
+            <link>https://www.iceland-trip.cc/Flora/Arctic%20Alpine%20fleabane%20%28Erigeron%20humilis%29/slides/DSC01254.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Arctic%20Alpine%20fleabane%20%28Erigeron%20humilis%29/thumbs/DSC01254.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Arctic%20Alpine%20fleabane%20%28Erigeron%20humilis%29/slides/DSC01254.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:28:22 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01254.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01255</title>
+            <link>https://www.iceland-trip.cc/Flora/Arctic%20Alpine%20fleabane%20%28Erigeron%20humilis%29/slides/DSC01255.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Arctic%20Alpine%20fleabane%20%28Erigeron%20humilis%29/thumbs/DSC01255.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Arctic%20Alpine%20fleabane%20%28Erigeron%20humilis%29/slides/DSC01255.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:28:29 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01255.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01256</title>
+            <link>https://www.iceland-trip.cc/Flora/Arctic%20Alpine%20fleabane%20%28Erigeron%20humilis%29/slides/DSC01256.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Arctic%20Alpine%20fleabane%20%28Erigeron%20humilis%29/thumbs/DSC01256.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Arctic%20Alpine%20fleabane%20%28Erigeron%20humilis%29/slides/DSC01256.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:28:33 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01256.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01257</title>
+            <link>https://www.iceland-trip.cc/Flora/Arctic%20Alpine%20fleabane%20%28Erigeron%20humilis%29/slides/DSC01257.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Arctic%20Alpine%20fleabane%20%28Erigeron%20humilis%29/thumbs/DSC01257.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Arctic%20Alpine%20fleabane%20%28Erigeron%20humilis%29/slides/DSC01257.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:28:42 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01257.JPG</guid>
+        </item>
+    </channel>
+</rss>

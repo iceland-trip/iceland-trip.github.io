@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Water avens (Geum rivale)</title>
+   	<link>../..</link>
+        <generator>jAlbum 20.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://www.iceland-trip.cc/Flora/Water%20avens%20%28Geum%20rivale%29/</jalbum:absolutePath>
+        <item>
+            <title>0DSC01276</title>
+            <link>https://www.iceland-trip.cc/Flora/Water%20avens%20%28Geum%20rivale%29/slides/0DSC01276.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Water%20avens%20%28Geum%20rivale%29/thumbs/0DSC01276.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Water%20avens%20%28Geum%20rivale%29/slides/0DSC01276.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:37:17 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/0DSC01276.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01275</title>
+            <link>https://www.iceland-trip.cc/Flora/Water%20avens%20%28Geum%20rivale%29/slides/DSC01275.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Water%20avens%20%28Geum%20rivale%29/thumbs/DSC01275.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Water%20avens%20%28Geum%20rivale%29/slides/DSC01275.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:37:10 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01275.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01277</title>
+            <link>https://www.iceland-trip.cc/Flora/Water%20avens%20%28Geum%20rivale%29/slides/DSC01277.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Water%20avens%20%28Geum%20rivale%29/thumbs/DSC01277.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Water%20avens%20%28Geum%20rivale%29/slides/DSC01277.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:37:27 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01277.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01278</title>
+            <link>https://www.iceland-trip.cc/Flora/Water%20avens%20%28Geum%20rivale%29/slides/DSC01278.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Water%20avens%20%28Geum%20rivale%29/thumbs/DSC01278.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Water%20avens%20%28Geum%20rivale%29/slides/DSC01278.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:37:34 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01278.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01279</title>
+            <link>https://www.iceland-trip.cc/Flora/Water%20avens%20%28Geum%20rivale%29/slides/DSC01279.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Water%20avens%20%28Geum%20rivale%29/thumbs/DSC01279.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Water%20avens%20%28Geum%20rivale%29/slides/DSC01279.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:37:38 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01279.JPG</guid>
+        </item>
+    </channel>
+</rss>

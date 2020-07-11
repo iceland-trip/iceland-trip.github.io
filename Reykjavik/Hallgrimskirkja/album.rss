@@ -5,11 +5,11 @@
     <channel>
         <title>Hallgrimskirkja</title>
    	<link>../..</link>
-        <generator>jAlbum 19.2</generator>
+        <generator>jAlbum 20.2</generator>
    		<description></description>
-        <jalbum:absolutePath>http://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Around/album.rss" title="Around" thumbnail="http://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Around/thumbs/Around%2022-Jul-19%20_%2012_19_58.jpg" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Inside/album.rss" title="Inside" thumbnail="http://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Inside/thumbs/Inside%2022-Jul-19%20_%2012_40_10.jpg" thumbnailWidth="270" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Outside/album.rss" title="Outside" thumbnail="http://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Outside/thumbs/Outside%2022-Jul-19%20_%2012_24_38.jpg" thumbnailWidth="270" thumbnailHeight="360" />
+        <jalbum:absolutePath>https://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Around/album.rss" title="Around" thumbnail="https://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Around/thumbs/Around%2022-Jul-19%20_%2012_19_58.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Inside/album.rss" title="Inside" thumbnail="https://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Inside/thumbs/Inside%2022-Jul-19%20_%2012_40_10.jpg" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Outside/album.rss" title="Outside" thumbnail="https://www.iceland-trip.cc/Reykjavik/Hallgrimskirkja/Outside/thumbs/Outside%2022-Jul-19%20_%2012_24_38.jpg" thumbnailWidth="270" thumbnailHeight="360" />
     </channel>
 </rss>

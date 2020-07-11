@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Bladder wrack (Fucus vesiculosus)</title>
+   	<link>../..</link>
+        <generator>jAlbum 20.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://www.iceland-trip.cc/Flora/Bladder%20wrack%20%28Fucus%20vesiculosus%29/</jalbum:absolutePath>
+        <item>
+            <title>0DSC01822</title>
+            <link>https://www.iceland-trip.cc/Flora/Bladder%20wrack%20%28Fucus%20vesiculosus%29/slides/0DSC01822.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Bladder%20wrack%20%28Fucus%20vesiculosus%29/thumbs/0DSC01822.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Bladder%20wrack%20%28Fucus%20vesiculosus%29/slides/0DSC01822.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Fri, 26 Jul 2019 17:24:32 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/0DSC01822.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01821</title>
+            <link>https://www.iceland-trip.cc/Flora/Bladder%20wrack%20%28Fucus%20vesiculosus%29/slides/DSC01821.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Bladder%20wrack%20%28Fucus%20vesiculosus%29/thumbs/DSC01821.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Bladder%20wrack%20%28Fucus%20vesiculosus%29/slides/DSC01821.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Fri, 26 Jul 2019 17:24:23 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01821.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01823</title>
+            <link>https://www.iceland-trip.cc/Flora/Bladder%20wrack%20%28Fucus%20vesiculosus%29/slides/DSC01823.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Bladder%20wrack%20%28Fucus%20vesiculosus%29/thumbs/DSC01823.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Bladder%20wrack%20%28Fucus%20vesiculosus%29/slides/DSC01823.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Fri, 26 Jul 2019 17:24:35 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01823.JPG</guid>
+        </item>
+    </channel>
+</rss>

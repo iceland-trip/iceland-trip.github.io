@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Valerian (Valeriana officinalis)</title>
+   	<link>../..</link>
+        <generator>jAlbum 20.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://www.iceland-trip.cc/Flora/Valerian%20%28Valeriana%20officinalis%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC01135</title>
+            <link>https://www.iceland-trip.cc/Flora/Valerian%20%28Valeriana%20officinalis%29/slides/DSC01135.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Valerian%20%28Valeriana%20officinalis%29/thumbs/DSC01135.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Valerian%20%28Valeriana%20officinalis%29/slides/DSC01135.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 11:48:06 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01135.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01136</title>
+            <link>https://www.iceland-trip.cc/Flora/Valerian%20%28Valeriana%20officinalis%29/slides/DSC01136.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Valerian%20%28Valeriana%20officinalis%29/thumbs/DSC01136.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Valerian%20%28Valeriana%20officinalis%29/slides/DSC01136.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 11:48:12 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01136.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01137</title>
+            <link>https://www.iceland-trip.cc/Flora/Valerian%20%28Valeriana%20officinalis%29/slides/DSC01137.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Valerian%20%28Valeriana%20officinalis%29/thumbs/DSC01137.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Valerian%20%28Valeriana%20officinalis%29/slides/DSC01137.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 11:48:18 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01137.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01138</title>
+            <link>https://www.iceland-trip.cc/Flora/Valerian%20%28Valeriana%20officinalis%29/slides/DSC01138.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/Valerian%20%28Valeriana%20officinalis%29/thumbs/DSC01138.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/Valerian%20%28Valeriana%20officinalis%29/slides/DSC01138.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 22 Jul 2019 11:48:25 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01138.JPG</guid>
+        </item>
+    </channel>
+</rss>

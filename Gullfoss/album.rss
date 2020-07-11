@@ -5,11 +5,11 @@
     <channel>
         <title>Gullfoss</title>
    	<link>..</link>
-        <generator>jAlbum 19.2</generator>
+        <generator>jAlbum 20.2</generator>
    		<description></description>
-        <jalbum:absolutePath>http://www.iceland-trip.cc/Gullfoss/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Gullfoss/Above/album.rss" title="Above" thumbnail="http://www.iceland-trip.cc/Gullfoss/Above/thumbs/Above%2023-Jul-19%20_%2012_23_04.jpg" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Gullfoss/Below/album.rss" title="Below" thumbnail="http://www.iceland-trip.cc/Gullfoss/Below/thumbs/Below%2023-Jul-19%20_%2012_44_52.jpg" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://www.iceland-trip.cc/Gullfoss/Stairs/album.rss" title="Stairs" thumbnail="http://www.iceland-trip.cc/Gullfoss/Stairs/thumbs/Stairs%2023-Jul-19%20_%2012_27_14.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+        <jalbum:absolutePath>https://www.iceland-trip.cc/Gullfoss/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://www.iceland-trip.cc/Gullfoss/Above/album.rss" title="Above" thumbnail="https://www.iceland-trip.cc/Gullfoss/Above/thumbs/Above%2023-Jul-19%20_%2012_23_04.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://www.iceland-trip.cc/Gullfoss/Below/album.rss" title="Below" thumbnail="https://www.iceland-trip.cc/Gullfoss/Below/thumbs/Below%2023-Jul-19%20_%2012_44_52.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://www.iceland-trip.cc/Gullfoss/Stairs/album.rss" title="Stairs" thumbnail="https://www.iceland-trip.cc/Gullfoss/Stairs/thumbs/Stairs%2023-Jul-19%20_%2012_27_14.jpg" thumbnailWidth="480" thumbnailHeight="360" />
     </channel>
 </rss>
